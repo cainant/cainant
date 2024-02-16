@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align="center"><img src="assets/gitctravizanutto.png" width="600"/></p>
+<p align=center>👋 Oi! 🇧🇷 CS undergraduate</p>
 
-<!--
-**ctravizanutto/ctravizanutto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- I'm Cainan Travizanutto
+- I like systems programming
+- I research **Code Generation to BDI Agents from Models**
 
-Here are some ideas to get you started:
+<p align=center>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,git,linux,py,java"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:cainantravizanutto@alunos.utfpr.edu.br)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([mailto:cainantravizanutto@alunos.utfpr.edu.br](https://www.linkedin.com/in/cainan-travizanutto-27869420a/))
+
+<div class='container'>
+    <img style="height: auto; width: 53%;" class="img" src="https://github-readme-stats.vercel.app/api?username=ctravizanutto&show_icons=true&bg_color=7d7e80&text_color=ffbb00&title_color=ffffff&icon_color=ffffff" />
+&nbsp;
+&nbsp;
+    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctravizanutto&bg_color=7d7e80&text_color=ffbb00&layout=compact&title_color=ffffff&icon_color=ffffff" />
+</div>
