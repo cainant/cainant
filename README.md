@@ -18,8 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cainant/)
 
 <div class='container'>
-    <img style="height: auto; width: 53%;" class="img" src="https://github-readme-stats.vercel.app/api?username=cainant&show_icons=true&bg_color=7d7e80&text_color=ffbb00&title_color=ffffff&icon_color=ffffff&rank_icon=github" />
+    <img style="height: auto; width: 53%;" class="img" src="assets/stats.svg" />
 &nbsp;
 &nbsp;
-    <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cainant&bg_color=7d7e80&text_color=ffbb00&layout=compact&title_color=ffffff&icon_color=ffffff" />
+    <img style="height: auto; width: 40%;" class="img" src="assets/top-langs.svg" />
 </div>
